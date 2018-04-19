@@ -1,0 +1,24 @@
+{
+  "name": "todoredo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "http-errors": "~1.6.2",
+    "mongoose": "^5.0.15",
+    "morgan": "^1.9.0"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
